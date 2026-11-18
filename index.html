@@ -271,13 +271,13 @@ nav a:hover{color:var(--gold2)}
 .btn-line{border-color:var(--gold);color:var(--gold)}
 .btn-line:hover{background:rgba(198,160,74,.12)}
 .hero{background:var(--black);color:#fff;padding:80px 0}
-.hero .g{display:grid;grid-template-columns:1.25fr .75fr;gap:56px;align-items:center}
+.hero .g{align-items:center;display:grid;grid-template-columns:1.25fr .75fr;gap:56px;align-items:center}
 .hero h1{color:#fff;font-size:clamp(30px,4.6vw,48px);margin-bottom:20px}
 .hero h1 em{color:var(--gold);font-style:normal}
 .hero p{color:#D9D4C7;font-size:19px;margin-bottom:30px;max-width:640px}
 .hero .cta{display:flex;gap:14px;flex-wrap:wrap}
 .hero .foto{position:relative}
-.hero .foto img{width:100%;border-radius:10px;display:block;border:1px solid rgba(198,160,74,.5)}
+.hero .foto img{width:100%;height:auto;aspect-ratio:1/1;object-fit:cover;border-radius:10px;display:block;border:1px solid rgba(198,160,74,.5)}
 .hero .foto:after{content:"";position:absolute;inset:14px -14px -14px 14px;border:2px solid var(--gold);border-radius:10px;z-index:-1}
 .subhero{background:var(--black);color:#fff;padding:56px 0 60px}
 .subhero h1{color:#fff;font-size:clamp(28px,4.2vw,42px);max-width:860px;margin-bottom:16px}
@@ -313,7 +313,7 @@ h2{font-size:clamp(26px,3.6vw,36px);margin-bottom:14px}
 .step h3{font-size:21px;margin-bottom:8px}
 .step p{color:var(--muted);font-size:16px}
 .about{display:grid;grid-template-columns:.8fr 1.2fr;gap:56px;align-items:center}
-.about img{width:100%;border-radius:10px;display:block;border:1px solid var(--line)}
+.about img{width:100%;height:auto;aspect-ratio:1/1;object-fit:cover;border-radius:10px;display:block;border:1px solid var(--line)}
 .about p{color:#33312C;margin-bottom:14px}
 .stars{color:var(--gold);letter-spacing:3px;font-size:20px}
 .rev{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:22px}
