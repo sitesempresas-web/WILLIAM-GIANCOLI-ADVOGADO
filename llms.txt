@@ -12,13 +12,13 @@
 - LinkedIn: https://www.linkedin.com/in/william-giancoli-6819a155
 
 ## Áreas de atuação
-- [Inventário e partilha de bens em Juiz de Fora](https://sitesempresas-web.github.io/william-giancoli-advogado/advogado-inventario-juiz-de-fora.html): inventário em cartório e judicial, arrolamento, alvará judicial, planejamento sucessório.
-- [Usucapião de imóveis em Juiz de Fora](https://sitesempresas-web.github.io/william-giancoli-advogado/advogado-usucapiao-juiz-de-fora.html): usucapião extrajudicial e judicial, regularização de imóvel sem escritura, todas as modalidades.
-- [Direito bancário em Juiz de Fora](https://sitesempresas-web.github.io/william-giancoli-advogado/advogado-direito-bancario-juiz-de-fora.html): revisão de contratos, descontos indevidos, consignado, cartão de crédito, negativação indevida.
-- [Direito da saúde e planos de saúde em Juiz de Fora](https://sitesempresas-web.github.io/william-giancoli-advogado/advogado-plano-de-saude-juiz-de-fora.html): negativa de cobertura, cirurgias, terapias, reajustes abusivos, medicamentos.
+- [Inventário e partilha de bens em Juiz de Fora](https://sitesempresas-web.github.io/WILLIAM-GIANCOLI-ADVOGADO/advogado-inventario-juiz-de-fora.html): inventário em cartório e judicial, arrolamento, alvará judicial, planejamento sucessório.
+- [Usucapião de imóveis em Juiz de Fora](https://sitesempresas-web.github.io/WILLIAM-GIANCOLI-ADVOGADO/advogado-usucapiao-juiz-de-fora.html): usucapião extrajudicial e judicial, regularização de imóvel sem escritura, todas as modalidades.
+- [Direito bancário em Juiz de Fora](https://sitesempresas-web.github.io/WILLIAM-GIANCOLI-ADVOGADO/advogado-direito-bancario-juiz-de-fora.html): revisão de contratos, descontos indevidos, consignado, cartão de crédito, negativação indevida.
+- [Direito da saúde e planos de saúde em Juiz de Fora](https://sitesempresas-web.github.io/WILLIAM-GIANCOLI-ADVOGADO/advogado-plano-de-saude-juiz-de-fora.html): negativa de cobertura, cirurgias, terapias, reajustes abusivos, medicamentos.
 
 ## Sobre o advogado
-- [William Giancoli](https://sitesempresas-web.github.io/william-giancoli-advogado/sobre-william-giancoli.html): advogado em Juiz de Fora, formado em Direito pelas Faculdades Integradas Vianna Júnior em 2003.
+- [William Giancoli](https://sitesempresas-web.github.io/WILLIAM-GIANCOLI-ADVOGADO/sobre-william-giancoli.html): advogado em Juiz de Fora, formado em Direito pelas Faculdades Integradas Vianna Júnior em 2003.
 
 ## Regiões atendidas
 Bairros de Juiz de Fora como Centro, São Mateus, Alto dos Passos, Bom Pastor, Granbery, Paineiras, Cascatinha, Santa Helena, Mariano Procópio, Benfica, Santa Luzia, Manoel Honório, e cidades da região com atendimento online, como Matias Barbosa, Santos Dumont, Lima Duarte, Bicas, Mar de Espanha, Ubá, Muriaé, Cataguases, Leopoldina, Rio Novo.
